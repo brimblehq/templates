@@ -46,6 +46,54 @@ Streamline your frontend deployment. Effortlessly package and deliver web code. 
 ]
 ```
 
+<details><summary><b>Supported Categories</b></summary>
+
+### Template Categories
+
+- **Portfolio**: Templates for showcasing personal or professional portfolios, including artists, designers, photographers, and developers. #portfolio
+
+- **E-Commerce**: Templates tailored for online stores, enabling users to sell products and services with ease. #ecommerce
+
+- **Blog**: Templates designed for bloggers to share articles, stories, and insights on various topics. #blog
+
+- **Corporate**: Professional templates suitable for corporate websites, highlighting company information, services, and contact details. #corporate
+
+- **Startup**: Templates aimed at startup companies, focusing on product features, team profiles, and value propositions. #startup
+
+- **Event**: Templates for promoting and managing events, conferences, workshops, and other gatherings. #event
+
+- **Restaurant**: Templates for restaurants and cafes, showcasing menus, location details, and reservation options. #restaurant
+
+- **Personal Blogging**: Templates tailored for personal bloggers to express thoughts, ideas, and experiences. #personal-blogging
+
+- **Nonprofit**: Templates for nonprofit organizations to raise awareness, share mission details, and collect donations. #nonprofit
+
+- **Education**: Templates for educational institutions, providing information about courses, faculty, and admissions. #education
+
+- **Travel**: Templates designed for travel agencies or travel bloggers to showcase destinations, itineraries, and travel tips. #travel
+
+- **Music/Band**: Templates for musicians and bands to showcase their music, tour dates, and merchandise. #music-band
+
+- **Health/Fitness**: Templates related to health and fitness, suitable for gyms, fitness coaches, and wellness blogs. #health-fitness
+
+- **Real Estate**: Templates for real estate agents or agencies to display property listings and contact information. #real-estate
+
+- **Technology**: Templates for tech-related companies or blogs, focusing on products, innovations, and industry insights. #technology
+
+- **Fashion**: Templates for fashion designers, brands, or boutiques to showcase clothing lines and accessories. #fashion
+
+- **Art/Creative**: Templates for artists and creatives to display their artwork, designs, and creative projects. #art-creative
+
+- **Freelancer/Consultant**: Templates for freelancers and consultants to present their services, expertise, and client testimonials. #freelancer-consultant
+
+- **Community/Forum**: Templates for creating online communities or discussion forums around specific topics. #community-forum
+
+- **News/Magazine**: Templates designed for news websites or online magazines, featuring articles, headlines, and multimedia content. #news-magazine
+
+
+
+</details>
+
 ## JSON fields
 
 This is the JSON schema for templates.json.
