@@ -22,7 +22,7 @@ Streamline your frontend deployment. Effortlessly package and deliver web code. 
 
 * Fork the repo [here](https://github.com/brimblehq/templates/fork) ✅
 * Clone the repository ✅
-* Make changes to templates.json ✅
+* Add your template here by making changes to templates.json ✅
 * Create a branch with the name: <code>brimble/template-name</code> ✅
 * Upload your banner image [here](https://forms.gle/FwUpnyjp46oiDT6w8) ✅
 * Mark your repository as a template, on the settings page ✅
