@@ -1,1 +1,10 @@
-
+[
+  {
+    "githubUrl": "https://github.com/pipethedev/templates",
+    "categories": [
+      "Ecommerce",
+      "Health"
+    ],
+    "deploymentUrl": "https://templates.brimble.io"
+  }
+]
