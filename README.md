@@ -50,45 +50,45 @@ Streamline your frontend deployment. Effortlessly package and deliver web code. 
 
 ### Template Categories
 
-- **Portfolio**: Templates for showcasing personal or professional portfolios, including artists, designers, photographers, and developers. #portfolio
+- **Portfolio**: Templates for showcasing personal or professional portfolios, including artists, designers, photographers, and developers. <code>portfolio</code>
 
-- **E-Commerce**: Templates tailored for online stores, enabling users to sell products and services with ease. #ecommerce
+- **E-Commerce**: Templates tailored for online stores, enabling users to sell products and services with ease. <code>ecommerce</code>
 
-- **Blog**: Templates designed for bloggers to share articles, stories, and insights on various topics. #blog
+- **Blog**: Templates designed for bloggers to share articles, stories, and insights on various topics. <code>blog</code>
 
-- **Corporate**: Professional templates suitable for corporate websites, highlighting company information, services, and contact details. #corporate
+- **Corporate**: Professional templates suitable for corporate websites, highlighting company information, services, and contact details. <code>corporate</code>
 
-- **Startup**: Templates aimed at startup companies, focusing on product features, team profiles, and value propositions. #startup
+- **Startup**: Templates aimed at startup companies, focusing on product features, team profiles, and value propositions. <code>startup</code>
 
-- **Event**: Templates for promoting and managing events, conferences, workshops, and other gatherings. #event
+- **Event**: Templates for promoting and managing events, conferences, workshops, and other gatherings. <code>event</code>
 
-- **Restaurant**: Templates for restaurants and cafes, showcasing menus, location details, and reservation options. #restaurant
+- **Restaurant**: Templates for restaurants and cafes, showcasing menus, location details, and reservation options. <code>restaurant</code>
 
-- **Personal Blogging**: Templates tailored for personal bloggers to express thoughts, ideas, and experiences. #personal-blogging
+- **Personal Blogging**: Templates tailored for personal bloggers to express thoughts, ideas, and experiences. <code>personal-blogging</code>
 
-- **Nonprofit**: Templates for nonprofit organizations to raise awareness, share mission details, and collect donations. #nonprofit
+- **Nonprofit**: Templates for nonprofit organizations to raise awareness, share mission details, and collect donations. <code>nonprofit</code>
 
-- **Education**: Templates for educational institutions, providing information about courses, faculty, and admissions. #education
+- **Education**: Templates for educational institutions, providing information about courses, faculty, and admissions. <code>education</code>
 
-- **Travel**: Templates designed for travel agencies or travel bloggers to showcase destinations, itineraries, and travel tips. #travel
+- **Travel**: Templates designed for travel agencies or travel bloggers to showcase destinations, itineraries, and travel tips. <code>travel</code>
 
-- **Music/Band**: Templates for musicians and bands to showcase their music, tour dates, and merchandise. #music-band
+- **Music/Band**: Templates for musicians and bands to showcase their music, tour dates, and merchandise. <code>music-band</code>
 
-- **Health/Fitness**: Templates related to health and fitness, suitable for gyms, fitness coaches, and wellness blogs. #health-fitness
+- **Health/Fitness**: Templates related to health and fitness, suitable for gyms, fitness coaches, and wellness blogs. <code>health-fitness</code>
 
-- **Real Estate**: Templates for real estate agents or agencies to display property listings and contact information. #real-estate
+- **Real Estate**: Templates for real estate agents or agencies to display property listings and contact information. <code>real-estate</code>
 
-- **Technology**: Templates for tech-related companies or blogs, focusing on products, innovations, and industry insights. #technology
+- **Technology**: Templates for tech-related companies or blogs, focusing on products, innovations, and industry insights. <code>technology</code>
 
-- **Fashion**: Templates for fashion designers, brands, or boutiques to showcase clothing lines and accessories. #fashion
+- **Fashion**: Templates for fashion designers, brands, or boutiques to showcase clothing lines and accessories. <code>fashion</code>
 
-- **Art/Creative**: Templates for artists and creatives to display their artwork, designs, and creative projects. #art-creative
+- **Art/Creative**: Templates for artists and creatives to display their artwork, designs, and creative projects.<code>art-creative</code>
 
-- **Freelancer/Consultant**: Templates for freelancers and consultants to present their services, expertise, and client testimonials. #freelancer-consultant
+- **Freelancer/Consultant**: Templates for freelancers and consultants to present their services, expertise, and client testimonials. <code>freelancer-consultant</code>
 
-- **Community/Forum**: Templates for creating online communities or discussion forums around specific topics. #community-forum
+- **Community/Forum**: Templates for creating online communities or discussion forums around specific topics. <code>forum</code>
 
-- **News/Magazine**: Templates designed for news websites or online magazines, featuring articles, headlines, and multimedia content. #news-magazine
+- **News/Magazine**: Templates designed for news websites or online magazines, featuring articles, headlines, and multimedia content. <code>news/magazine</code>
 
 
 
