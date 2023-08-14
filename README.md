@@ -1,4 +1,4 @@
-[![wappalyzer NPM](https://img.shields.io/badge/npm-brimble-blue)](https://www.npmjs.com/package/@brimble/cli)
+[![brimble NPM](https://img.shields.io/badge/npm-brimble-blue)](https://www.npmjs.com/package/@brimble/cli)
 
 
 <a href="https://res.cloudinary.com/dgqfojhx4/image/upload/v1683036273/brimble-assets/paystack-logo_imtgax.png"><img src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1683036273/brimble-assets/paystack-logo_imtgax.png" height="72" alt="Brimble" align="left" /></a>
@@ -7,7 +7,7 @@
 
 <br>
 
-[Brimble](https://www.brimble.io) is your go to cloud platform for deploying your frontend web applications.
+[Brimble](https://www.brimble.io) is your go-to cloud platform for deploying front-end web applications.
 
 Streamline your frontend deployment. Effortlessly package and deliver web code. Optimize loading times for seamless user experiences. Simplify your workflow with Brimble.
 
@@ -23,9 +23,9 @@ Streamline your frontend deployment. Effortlessly package and deliver web code. 
 * Fork the repo [here](https://github.com/brimblehq/templates/fork) ✅
 * Clone the repository ✅
 * Make changes to templates.json ✅
-* Branch name of <code>brimble/template-name</code> ✅
+* Create a branch with the name: <code>brimble/template-name</code> ✅
 * Upload your banner image [here](https://forms.gle/FwUpnyjp46oiDT6w8) ✅
-* Mark your repository as template, in the settings page ✅
+* Mark your repository as a template, on the settings page ✅
 * Add brimble badge to readMe ✅
 * Create a Pull Request ✅
 * Wait for your template to go live 🚀
@@ -38,8 +38,8 @@ Streamline your frontend deployment. Effortlessly package and deliver web code. 
   {
     "githubUrl": "https://github.com/pipethedev/templates",
     "categories": [
-      "Ecommerce",
-      "Health"
+      "e-commerce",
+      "health-fitness"
     ],
     "deploymentUrl": "https://templates.brimble.app"
   }
@@ -52,9 +52,9 @@ Streamline your frontend deployment. Effortlessly package and deliver web code. 
 
 - **Portfolio**: Templates for showcasing personal or professional portfolios, including artists, designers, photographers, and developers. <code>portfolio</code>
 
-- **E-Commerce**: Templates tailored for online stores, enabling users to sell products and services with ease. <code>ecommerce</code>
+- **E-Commerce**: Templates tailored for online stores, enabling users to easily sell products and services. <code>e-commerce</code>
 
-- **Blog**: Templates designed for bloggers to share articles, stories, and insights on various topics. <code>blog</code>
+- **Blog**: Templates for bloggers to share articles, stories, and insights on various topics. <code>blog</code>
 
 - **Corporate**: Professional templates suitable for corporate websites, highlighting company information, services, and contact details. <code>corporate</code>
 
@@ -117,7 +117,7 @@ This is the JSON schema for templates.json.
       <td>Array of supported categories, for your template</td>
       <td>
         <code>[
-      "ecommerce",
+      "e-commerce",
       "health-fitness"
     ]</code>
       </td>
@@ -125,7 +125,7 @@ This is the JSON schema for templates.json.
     <tr>
       <td><code>deploymentUrl</code></td>
       <td>Array</td>
-      <td>Deployment url of your template on brimble</td>
+      <td>Deployment URL of your template on brimble</td>
       <td>
         <code>"https://templates.brimble.app"</code>
       </td>
@@ -134,17 +134,17 @@ This is the JSON schema for templates.json.
 </table>
 
 ## Brimble Badge
-The url of the badge is the repository url
+The URL of the badge is the repository URL
 
 <br/>
-<a href="https://github.com/brimblehq/templates">
+<a href="https://beta.brimble.io">
 <img src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1692011166/brimble-assets/badge_fuuq5i.png" alt="Brimble badge"/>
 </a>
 
 ## Quick note
 
 -   Providing an invalid json format would not get your pull request approved & merged.
--   Only provide supported categories as they are case sensitive.
--   Deployment url should only have the brimble.app subdomain.
+-   Only provide supported categories as they are case-sensitive.
+-   Deployment URL should only have the brimble.app subdomain.
 -   Uploading a banner image is mandatory.
 -   Absence of the brimble badge in your readMe file could prevent pull request approval
