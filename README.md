@@ -1,9 +1,7 @@
-[![Validate](https://github.com/wappalyzer/wappalyzer/actions/workflows/validate.yml/badge.svg)](https://github.com/wappalyzer/wappalyzer/actions/workflows/validate.yml)
-[![wappalyzer NPM](https://img.shields.io/badge/npm-wappalyzer-blue)](https://www.npmjs.com/package/wappalyzer)
-[![wappalyzer-core NPM](https://img.shields.io/badge/npm-wappalyzer--core-blue)](https://www.npmjs.com/package/wappalyzer-core)
-[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/AliasIO)](https://github.com/sponsors/AliasIO)
+[![wappalyzer NPM](https://img.shields.io/badge/npm-brimble-blue)](https://www.npmjs.com/package/@brimble/cli)
 
-<a href="https://www.wappalyzer.com/?utm_source=readme&utm_medium=github&utm_campaign=wappalyzer"><img src="https://www.wappalyzer.com/images/logo/icon_192.png" height="72" alt="Wappalyzer" align="left" /></a>
+
+<a href="https://res.cloudinary.com/dgqfojhx4/image/upload/v1683036273/brimble-assets/paystack-logo_imtgax.png"><img src="https://res.cloudinary.com/dgqfojhx4/image/upload/v1683036273/brimble-assets/paystack-logo_imtgax.png" height="72" alt="Brimble" align="left" /></a>
 
 # Brimble
 
