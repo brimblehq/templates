@@ -38,8 +38,8 @@ Streamline your frontend deployment. Effortlessly package and deliver web code. 
     "githubUrl": "https://github.com/pipethedev/templates",
     "imageUrl": "https://image.com",
     "categories": [
-      "Ecommerce",
-      "Health"
+      "ecommerce",
+      "health-fitness"
     ],
     "deploymentUrl": "https://templates.brimble.app"
   }
