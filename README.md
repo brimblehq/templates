@@ -147,4 +147,4 @@ The url of the badge is the repository url
 -   Only provide supported categories as they are case sensitive.
 -   Deployment url should only have the brimble.app subdomain.
 -   Uploading a banner image is mandatory.
--   Absence of the brimble badge on your readMe file could prevent pull request approval
+-   Absence of the brimble badge in your readMe file could prevent pull request approval
