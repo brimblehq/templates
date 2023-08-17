@@ -6,5 +6,12 @@
       "health-fitness"
     ],
     "deploymentUrl": "https://templates.brimble.io"
+  },
+  {
+    "title": "Portfolio - with Next.js App Router",
+    "description": "Easily create a portfolio with Next.js app directory",
+    "githubUrl": "https://github.com/klef-dev/klef-dev",
+    "categories": ["portfolio"],
+    "deploymentUrl": "https://klefdev.brimble.app"
   }
 ]
