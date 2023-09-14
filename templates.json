@@ -1,10 +1,7 @@
 [
   {
-    "githubUrl": "https://github.com/pipethedev/templates",
-    "categories": [
-      "ecommerce",
-      "health-fitness"
-    ],
-    "deploymentUrl": "https://templates.brimble.io"
+    "githubUrl": "https://github.com/kadetXx/nuxt-gsap-starter",
+    "categories": ["art-creative"],
+    "deploymentUrl": "https://nuxt-gsap-starter.brimble.app"
   }
 ]
