@@ -1,7 +1,24 @@
 [
   {
+    "title": "Nuxt GSAP Starter pack",
+    "slug": "nuxtgsap-starter",
+    "description": "Nuxt gsap starter template",
     "githubUrl": "https://github.com/kadetXx/nuxt-gsap-starter",
-    "categories": ["art-creative"],
+    "image": "https://res.cloudinary.com/dgqfojhx4/image/upload/v1694678011/templates/nuxt-gsap_hkgpxw.png",
+    "categories": [
+      "art-creative"
+    ],
     "deploymentUrl": "https://nuxt-gsap-starter.brimble.app"
+  },
+  {
+    "title": "Portfolio - with Next.js App Router",
+    "description": "Easily create a portfolio with Next.js app directory",
+    "slug": "nextjs-portfolio",
+    "image": "http://res.cloudinary.com/dgqfojhx4/image/upload/v1691268979/screenshots/yopydnezwwyj11lstcdh.png",
+    "githubUrl": "https://github.com/klef-dev/klef-dev",
+    "categories": [
+      "portfolio"
+    ],
+    "deploymentUrl": "https://klefdev.brimble.app"
   }
 ]
