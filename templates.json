@@ -11,6 +11,17 @@
     "deploymentUrl": "https://nuxt-gsap-starter.brimble.app"
   },
   {
+    "title": "Simple Portfolio",
+    "slug": "portfolio-starter",
+    "description": "Simple html & css portfolio",
+    "githubUrl": "https://github.com/aosasona/1063",
+    "image": "https://res.cloudinary.com/dgqfojhx4/image/upload/v1704447359/templates/portfolio_kgatyc.png",
+    "categories": [
+      "portfolio"
+    ],
+    "deploymentUrl": "https://1063.brimble.app"
+  },
+  {
     "title": "Portfolio - with Next.js App Router",
     "description": "Easily create a portfolio with Next.js app directory",
     "slug": "nextjs-portfolio",
